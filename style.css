@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: radial-gradient(green, #fff);
+    background: url(images/Screenshot_20220604-145428~3.png) no-repeat;
+    background: green;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1 {
+    margin: 50px;
+    font-size: 3rem;
+}
+.song{
+    width: 50px;
+    padding: 5px 0 0 0;
+    font-size: 3rem;
+    background: #eee;
+    border-radius: 10px;
+}
+.brand{
+    text-align: left;
+    margin: 20px;
+}
